@@ -6,6 +6,8 @@ This directory inside the `justinivanlim.github.io` repository hosts the GitHub 
 
 ## Authorship & AI-Assistance Disclosure
 
+**AI tools used: Google Gemini 4 Neon as planner, reviewer, and orchestrator. Google Gemini 4 Hydrogen as worker/builder.**
+
 **The narrative content itself is solely authored by the students.** AI tools are used strictly to assist in building and formatting the website, specifically for the HTML and CSS layout structure and communicative framing.
 
 ## Repository Structure
