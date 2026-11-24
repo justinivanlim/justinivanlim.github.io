@@ -1,6 +1,6 @@
 # justinivanlim.github.io
 
-This repository hosts a collection of personal GitHub Pages projects published under `https://justinivanlim.github.io/`.
+This repository hosts a collection of personal GitHub Pages projects published under https://justinivanlim.github.io/
 
 ## AI-Assistance Disclosure
 
@@ -23,6 +23,6 @@ justinivanlim.github.io/
 `theo-13-narrative/` is currently the only active project in this repository.
 
 - **Project:** Theology 13 Narrative (Work in Progress)
-- **Live site:** `https://justinivanlim.github.io/theo-13-narrative/`
+- **Live site:** https://justinivanlim.github.io/theo-13-narrative/
 - **Documentation:** [`./theo-13-narrative/README.md`](./theo-13-narrative/README.md)
 - **Summary:** Static HTML and CSS reading layout for the Theology 13 narrative output; narrative content is solely student-authored, while AI tools assist strictly with website structure and presentation.
