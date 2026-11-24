@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This directory inside the `justinivanlim.github.io` repository hosts the GitHub Pages site for the Theology 13 narrative output at `https://justinivanlim.github.io/theo-13-narrative/`. The site is currently in a work-in-progress layout stage using *Lorem ipsum* placeholder text while the final student-authored narrative is being prepared.
+This directory inside the `justinivanlim.github.io` repository hosts the GitHub Pages site for the Theology 13 narrative output at https://justinivanlim.github.io/theo-13-narrative/. The site is currently in a work-in-progress layout stage using *Lorem ipsum* placeholder text while the final student-authored narrative is being prepared.
 
 ## Authorship & AI-Assistance Disclosure
 
